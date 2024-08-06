@@ -1,2 +1,1 @@
-const baseUrl =
-  process.env.NODE_ENV === "production" ? "/repository-name/" : "/";
+const baseUrl = process.env.NODE_ENV === "production" ? "/project-n/" : "/";
